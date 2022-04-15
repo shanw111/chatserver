@@ -1,0 +1,2 @@
+# chatserver
+使用muduo作为网络模块、配置nginx负载均衡，使用redis作为消息中间件实现的集群聊天服务器
